@@ -65,6 +65,5 @@ This dashboard provides a professional and interactive visualization of the **Me
 
 ## 🧠 Future Improvements
 
-- Add patient demographics analysis (e.g., age groups)
 - Integrate machine learning model for predicting no-shows
 - Export filtered views as reports
